@@ -6,5 +6,3 @@
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/c7d24439-137d-4f52-a1ad-31b0815089b4" width="200" height="200" />
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/89bfd29c-ce40-476d-98e8-e851b0505faa" width="200" height="200" />
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/c71a6f8a-6828-4ab6-ae36-652f0a9d3510" width="200" height="200" />
-
-<img src="https://komarev.com/ghpvc/?username=MarcusBloomfield&style=flat-square&color=87cefa&label=Profile+Snoopers" />
