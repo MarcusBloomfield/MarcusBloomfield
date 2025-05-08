@@ -71,4 +71,3 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 I’m always open to chatting about ideas, games, tools, or collaborations.  
 📧 marcusbloomfield3@gmail.com  
-🌍 [GitHub Profile](https://github.com/MarcusBloomfield)
