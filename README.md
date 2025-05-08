@@ -46,7 +46,6 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - `Depths` – An atmospheric Python project exploring deeper systems  
 - `MarcusEngine` – A C++ custom game engine for learning and experimentation  
 - `PROJECT-ZETA` – A GDScript-powered prototype  
-- `terry_wars` – FPS/RTS hybrid for s&box  
 - `AutoResumeApply` – Automates resume submissions with HTML-based templates  
 
 ---
