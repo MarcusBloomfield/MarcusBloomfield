@@ -8,7 +8,7 @@
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/c71a6f8a-6828-4ab6-ae36-652f0a9d3510" width="200" height="200" />
 
 
-# 👋 Hi, I'm Marcus Bloomfield
+# Hi, I'm Marcus Bloomfield
 
 Game developer and creative coder based in Perth, Western Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From AI-driven resume builders to dice-rolling Warhammer tools and Unity-based ecosystems—I'm always experimenting.
 
