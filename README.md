@@ -43,7 +43,7 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 - `Hardship-Town-Survival` – A survival town-builder written in Unity (C#)  
 - `MiniGame` – Built in C++ with Raylib, a minimal arcade-style game  
-- `Depths` – An atmospheric Python project exploring deeper systems  
+- `Depths` – An atmospheric Python project exploring the deep ocean in a submarine  
 - `MarcusEngine` – A C++ custom game engine for learning and experimentation  
 - `PROJECT-ZETA` – A GDScript-powered prototype  
 - `AutoResumeApply` – Automates resume submissions with HTML-based templates  
