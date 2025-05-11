@@ -19,17 +19,20 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - **[YoutubeVideoGenerator](https://github.com/MarcusBloomfield/YoutubeVideoGenerator)**  
   Automatically generates YouTube content using Python scripting and templated data.
 
-- **[ComputerTimeTracker](https://github.com/MarcusBloomfield/ComputerTimeTracker)**  
-  A simple Python-based tool to track time spent on a computer session-by-session.
-
-- **[ai-cv-customizer](https://github.com/MarcusBloomfield/ai-cv-customizer)**  
-  A TypeScript-powered tool to personalize CVs using AI prompts and job data.
+- **[AudioChromeExtension](https://github.com/MarcusBloomfield/AudioChromeExtension)**  
+  A Chrome extension provides tools for managing browser audio, including a Compressor, Limiter, and Amplifier.
 
 - **[JobFinder](https://github.com/MarcusBloomfield/JobFinder)**  
   A TypeScript-based job discovery app that integrates resume analysis and matching.
 
 - **[ScreenShotStylizer](https://github.com/MarcusBloomfield/ScreenShotStylizer)**  
   Adds aesthetic styles to screenshots—great for showcasing UI and portfolios.
+  
+- **[ai-cv-customizer](https://github.com/MarcusBloomfield/ai-cv-customizer)**  
+  A TypeScript-powered tool to personalize CVs using AI prompts and job data.
+
+- **[ComputerTimeTracker](https://github.com/MarcusBloomfield/ComputerTimeTracker)**  
+  A simple Python-based tool to track time spent on a computer session-by-session.
 
 - **[WarhammerDiceRoller](https://github.com/MarcusBloomfield/WarhammerDiceRoller)**  
   A focused C# dice-rolling app for Warhammer tabletop games.
@@ -41,11 +44,11 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ## 🎮 Games & Experiments (Private & Public Mix)
 
-- `Hardship-Town-Survival` – A survival town-builder written in Unity (C#)  
+- `Hardship-Town-Survival` – A survival town-builder written in Unity (C#) soon to be released on steam
 - `MiniGame` – Built in C++ with Raylib, a minimal arcade-style game  
 - `Depths` – An atmospheric Python project exploring the deep ocean in a submarine  
 - `MarcusEngine` – A C++ custom game engine for learning and experimentation  
-- `PROJECT-ZETA` – A GDScript-powered prototype  
+- `PROJECT-ZETA` – A GDScript-powered prototype in the Godot engine
 - `AutoResumeApply` – Automates resume submissions with HTML-based templates  
 
 ---
