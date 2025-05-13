@@ -14,8 +14,8 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ---
 ## 🧠 Main Project
-- **Hardship: Town Survival**  
-  Hardship Town Survival is a grounded, survival-focused town builder where managing people and resources is just as important as expanding your settlement. You'll gather materials, craft tools and buildings, and deal with the daily needs of your citizens—hunger, fatigue, weather, and more. Every system ties into your town's ability to survive and grow, all within a changing environment that keeps you thinking ahead.
+- **Hardship**  
+  Hardship is a grounded, survival-focused town builder where managing people and resources is just as important as expanding your settlement. You'll gather materials, craft tools and buildings, and deal with the daily needs of your citizens—hunger, fatigue, weather, and more. Every system ties into your town's ability to survive and grow, all within a changing environment that keeps you thinking ahead.
 
 ---
 
@@ -49,7 +49,7 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ## 🎮 Games & Experiments (Private & Public Mix)
 
-- `Hardship-Town-Survival` – A survival town-builder written in Unity (C#) soon to be released on steam
+- `Hardship` – A survival town-builder written in Unity (C#) soon to be released on steam
 - `MiniGame` – Built in C++ with Raylib, a minimal arcade-style game  
 - `Depths` – An atmospheric Python project exploring the deep ocean in a submarine  
 - `MarcusEngine` – A C++ custom game engine for learning and experimentation  
