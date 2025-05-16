@@ -10,7 +10,7 @@
 
 # Marcus Bloomfield
 
-Game developer and creative coder based in Perth, Western Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From web AI-driven resume builders to dice-rolling Warhammer tools and Unity-based video games—I'm always experimenting.
+Game developer and creative coder based in Perth, Western Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From web AI-driven resume builders to dice-rolling Warhammer tools and Unity-based video games.
 
 ---
 ## 🧠 Main Project
@@ -22,19 +22,19 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 ## 🛠️ Recent Projects
 
 - **[YoutubeVideoGenerator](https://github.com/MarcusBloomfield/YoutubeVideoGenerator)**  
-  Automatically generates YouTube content using Python scripting and templated data.
+  Automatically generates YouTube content from clips using Python, OpenAi for clip categorisation and Eleven labs for voice overs.
 
 - **[AudioChromeExtension](https://github.com/MarcusBloomfield/AudioChromeExtension)**  
   A Chrome extension provides tools for managing browser audio, including a Compressor, Limiter, and Amplifier.
 
 - **[JobFinder](https://github.com/MarcusBloomfield/JobFinder)**  
-  A TypeScript-based job discovery app that integrates resume analysis and matching.
+  A TypeScript-based job discovery app that integrates OpenAI resume analysis and matching.
 
 - **[ScreenShotStylizer](https://github.com/MarcusBloomfield/ScreenShotStylizer)**  
-  Adds aesthetic styles to screenshots—great for showcasing UI and portfolios.
+  Transforms images using OpenAI image creation.
   
 - **[ai-cv-customizer](https://github.com/MarcusBloomfield/ai-cv-customizer)**  
-  A TypeScript-powered tool to personalize CVs using AI prompts and job data.
+  A TypeScript-powered tool to personalize CVs using OpenAI and job data.
 
 - **[ComputerTimeTracker](https://github.com/MarcusBloomfield/ComputerTimeTracker)**  
   A simple Python-based tool to track time spent on a computer session-by-session.
