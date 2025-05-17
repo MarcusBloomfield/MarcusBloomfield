@@ -60,7 +60,7 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ## 🧰 Languages & Tools
 
-**Languages**: C#, Python, TypeScript, JavaScript, C++, Lua  
+**Languages**: C#, Python, TypeScript, JavaScript, C++, Lua, HLSL, GLSL  
 **Frameworks**: Unity, Raylib, GDScript, HTML/CSS  
 **Other**: NeoVim, ShaderLab, Git, CLI scripting
 
