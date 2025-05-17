@@ -14,7 +14,7 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ---
 ## 🧠 Main Project
-- **Hardship**  
+- **[Hardship](https://store.steampowered.com/app/1334570/Hardship/)**  
   Hardship is a grounded, survival-focused town builder where managing people and resources is just as important as expanding your settlement. You'll gather materials, craft tools and buildings, and deal with the daily needs of your citizens—hunger, fatigue, weather, and more. Every system ties into your town's ability to survive and grow, all within a changing environment that keeps you thinking ahead.
 
 ---
