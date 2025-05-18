@@ -1,3 +1,7 @@
+# Marcus Bloomfield
+
+Game developer and creative coder based in Perth, Western Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From web AI-driven resume builders to dice-rolling Warhammer tools and Unity-based video games.
+
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/a3748902-6402-422b-ae00-c68db842fae7" width="200" height="200" />
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/3feed36f-0701-47dd-8859-996b1540eea1" width="200" height="200" />
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/a1677e63-a356-4884-b751-3a9cae54d25a" width="200" height="200" />
@@ -6,11 +10,6 @@
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/c7d24439-137d-4f52-a1ad-31b0815089b4" width="200" height="200" />
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/89bfd29c-ce40-476d-98e8-e851b0505faa" width="200" height="200" />
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/c71a6f8a-6828-4ab6-ae36-652f0a9d3510" width="200" height="200" />
-
-
-# Marcus Bloomfield
-
-Game developer and creative coder based in Perth, Western Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From web AI-driven resume builders to dice-rolling Warhammer tools and Unity-based video games.
 
 ---
 ## 🧠 Main Project
@@ -21,8 +20,8 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ## 🛠️ Recent Projects
 
-- **[YoutubeVideoGenerator](https://github.com/MarcusBloomfield/YoutubeVideoGenerator)**  
-  Automatically generates YouTube content from clips using Python, OpenAi for clip categorisation and Eleven labs for voice overs.
+- **[Artificial-Life](https://github.com/MarcusBloomfield/Artificial-Life)**  
+  A Simple simulation of simple life.
 
 - **[AudioChromeExtension](https://github.com/MarcusBloomfield/AudioChromeExtension)**  
   A Chrome extension provides tools for managing browser audio, including a Compressor, Limiter, and Amplifier.
@@ -35,15 +34,15 @@ Game developer and creative coder based in Perth, Western Australia. I build too
   
 - **[ai-cv-customizer](https://github.com/MarcusBloomfield/ai-cv-customizer)**  
   A TypeScript-powered tool to personalize CVs using OpenAI and job data.
+  
+- **[YoutubeVideoGenerator](https://github.com/MarcusBloomfield/YoutubeVideoGenerator)**  
+  Automatically generates YouTube content from clips using Python, OpenAi for clip categorisation and Eleven labs for voice overs.
 
 - **[ComputerTimeTracker](https://github.com/MarcusBloomfield/ComputerTimeTracker)**  
   A simple Python-based tool to track time spent on a computer session-by-session.
 
 - **[WarhammerDiceRoller](https://github.com/MarcusBloomfield/WarhammerDiceRoller)**  
   A focused C# dice-rolling app for Warhammer tabletop games.
-
-- **[nvim](https://github.com/MarcusBloomfield/nvim)**  
-  My NeoVim configuration files—tuned for productivity with custom keybindings and plugins.
 
 ---
 
