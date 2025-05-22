@@ -32,9 +32,6 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - **[ScreenShotStylizer](https://github.com/MarcusBloomfield/ScreenShotStylizer)**  
   Transforms images using OpenAI image creation.
   
-- **[ai-cv-customizer](https://github.com/MarcusBloomfield/ai-cv-customizer)**  
-  A TypeScript-powered tool to personalize CVs using OpenAI and job data.
-  
 - **[YoutubeVideoGenerator](https://github.com/MarcusBloomfield/YoutubeVideoGenerator)**  
   Automatically generates YouTube content from clips using Python, OpenAi for clip categorisation and Eleven labs for voice overs.
 
@@ -53,7 +50,6 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - `Depths` – An atmospheric Python project exploring the deep ocean in a submarine  
 - `MarcusEngine` – A C++ custom game engine for learning and experimentation  
 - `PROJECT-ZETA` – A GDScript-powered prototype in the Godot engine
-- `AutoResumeApply` – Automates resume submissions with HTML-based templates  
 
 ---
 
