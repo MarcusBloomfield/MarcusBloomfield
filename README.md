@@ -41,9 +41,6 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - **[ComputerTimeTracker](https://github.com/MarcusBloomfield/ComputerTimeTracker)**  
   A simple Python-based tool to track time spent on a computer session-by-session.
 
-- **[WarhammerDiceRoller](https://github.com/MarcusBloomfield/WarhammerDiceRoller)**  
-  A focused C# dice-rolling app for Warhammer tabletop games.
-
 ---
 
 ## 🎮 Games & Experiments (Private & Public Mix)
