@@ -20,6 +20,9 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ## 🛠️ Recent Projects
 
+- **[ShaderToPng](https://github.com/MarcusBloomfield/ShaderToPng)**  
+  A simple program to create 1024x1024 textures from GLSL on the web
+
 - **[Artificial-Life](https://github.com/MarcusBloomfield/Artificial-Life)**  
   A Simple simulation of simple life.
 
