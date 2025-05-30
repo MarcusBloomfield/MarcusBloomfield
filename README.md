@@ -12,10 +12,10 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/c71a6f8a-6828-4ab6-ae36-652f0a9d3510" width="200" height="200" />
 
 ---
-## 🧠 Main Project
-- **[Hardship](https://store.steampowered.com/app/1334570?utm_source=github)**  
+## 🧠 Main Project  
 - **[HardshipWebsite](https://marcusbloomfield.github.io/HardshipWebsite/)**  
   Hardship is a grounded, survival-focused town builder where managing people and resources is just as important as expanding your settlement. You'll gather materials, craft tools and buildings, and deal with the daily needs of your citizens—hunger, fatigue, weather, and more. Every system ties into your town's ability to survive and grow, all within a changing environment that keeps you thinking ahead.
+ **[Hardship](https://store.steampowered.com/app/1334570?utm_source=github)**
 
 ---
 
