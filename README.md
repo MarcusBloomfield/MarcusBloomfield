@@ -18,7 +18,7 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 ---
 
-## 🛠️ Recent Projects
+## 🛠️ Projects
 
 - **[ShaderToPng](https://github.com/MarcusBloomfield/ShaderToPng)**  
   A simple program to create 1024x1024 textures from GLSL on the web
@@ -34,9 +34,6 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 
 - **[ScreenShotStylizer](https://github.com/MarcusBloomfield/ScreenShotStylizer)**  
   Transforms images using OpenAI image creation.
-  
-- **[YoutubeVideoGenerator](https://github.com/MarcusBloomfield/YoutubeVideoGenerator)**  
-  Automatically generates YouTube content from clips using Python, OpenAi for clip categorisation and Eleven labs for voice overs.
 
 - **[ComputerTimeTracker](https://github.com/MarcusBloomfield/ComputerTimeTracker)**  
   A simple Python-based tool to track time spent on a computer session-by-session.
