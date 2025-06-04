@@ -47,7 +47,7 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - `Depths` – An atmospheric Python project exploring the deep ocean in a submarine  
 - `MarcusEngine` – A C++ custom game engine for learning and experimentation  
 - `PROJECT-ZETA` – A GDScript-powered prototype in the Godot engine
-- `Youtube Video Generator` – An OpenAI Python project generates faceless youtube videos from clips
+- `Youtube Video Generator` – An OpenAI Python project that generates faceless youtube videos from clips
 
 ---
 
