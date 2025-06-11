@@ -19,6 +19,8 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 ---
 
 ## 🛠️ Projects
+- **[project-tracker-app](https://github.com/MarcusBloomfield/project-tracker-app)**  
+  A desktop project management application built with Electron, React, and TypeScript.
 
 - **[ShaderToPng](https://github.com/MarcusBloomfield/ShaderToPng)**  
   A simple program to create 1024x1024 textures from GLSL on the web
