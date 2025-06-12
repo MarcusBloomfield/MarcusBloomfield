@@ -1,6 +1,6 @@
 # Marcus Bloomfield
 
-Game developer and creative coder based in Perth, Western Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From web AI-driven resume builders to dice-rolling Warhammer tools and Unity-based video games.
+Game developer and creative coder based in Perth, Western Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From web AI-driven job finders to dice-rolling Warhammer tools and Unity-based video games.
 
 <div align="center">
   <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/a3748902-6402-422b-ae00-c68db842fae7" width="150" height="150" style="margin: 5px;" />
