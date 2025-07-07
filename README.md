@@ -22,6 +22,9 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 ---
 
 ## 🛠️ Projects
+- **[Practice-Javascript](https://github.com/MarcusBloomfield/Practice-Javascript)**  
+  AI-powered JavaScript practice tool with less then 200 lines of code that generates coding challenges.
+  
 - **[project-tracker-app](https://github.com/MarcusBloomfield/project-tracker-app)**  
   A desktop project management application built with Electron, React, and TypeScript.
 
