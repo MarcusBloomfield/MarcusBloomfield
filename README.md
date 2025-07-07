@@ -19,6 +19,7 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - **[Hardship](https://store.steampowered.com/app/1334570?utm_source=github) | [Steam](https://store.steampowered.com/app/1334570?utm_source=github) | [Website](https://marcusbloomfield.github.io/HardshipWebsite/)**    
   Hardship is a grounded, survival-focused town builder where managing people and resources is just as important as expanding your settlement. You'll gather materials, craft tools and buildings, and deal with the daily needs of your citizens—hunger, fatigue, weather, and more. Every system ties into your town's ability to survive and grow, all within a changing environment that keeps you thinking ahead.
 
+
 ---
 
 ## 🛠️ Projects
@@ -72,6 +73,12 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - 🚀 50+ repositories ranging from utility tools to full-fledged game engines  
 - 🧠 Passion for simulations, procedural systems, and creative automation  
 - 💡 Always exploring intersections of creativity, logic, and user experience
+
+---
+
+
+### 🧾 Proof i've been programming since before AI lol
+- https://www.youtube.com/@marcusbloomfield698/videos
 
 ---
 
