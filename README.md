@@ -44,9 +44,6 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 - **[ScreenShotStylizer](https://github.com/MarcusBloomfield/ScreenShotStylizer)**  
   Transforms images using OpenAI image creation.
 
-- **[ComputerTimeTracker](https://github.com/MarcusBloomfield/ComputerTimeTracker)**  
-  A simple Python-based tool to track time spent on a computer session-by-session.
-
 ---
 
 ## 🎮 Games & Experiments (Private & Public Mix)
