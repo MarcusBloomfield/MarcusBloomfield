@@ -77,11 +77,6 @@ Game developer and creative coder based in Perth, Western Australia. I build too
 ---
 
 
-### 🧾 Proof i've been programming since before AI lol
-- https://www.youtube.com/@marcusbloomfield698/videos
-
----
-
 ## 📬 Get in Touch
 
 I’m always open to chatting about ideas, games, tools, or collaborations.  
