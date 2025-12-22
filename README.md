@@ -15,17 +15,17 @@ Game developer and creative coder based in Australia. I build tools, simulations
 </div>
 
 ---
-## 🧠 Main Project  
+## Main Project  
 - **[Hardship](https://store.steampowered.com/app/1334570?utm_source=github) | [Steam](https://store.steampowered.com/app/1334570?utm_source=github) | [Website](https://marcusbloomfield.github.io/HardshipWebsite/)**    
   Hardship is a grounded, survival-focused town builder where managing people and resources is just as important as expanding your settlement. You'll gather materials, craft tools and buildings, and deal with the daily needs of your citizens, hunger, fatigue, weather, and more. Every system ties into your town's ability to survive and grow, all within a changing environment that keeps you thinking ahead.
   
-##  📝 Notable Mention  
+##  Notable Mention  
 - **[project-tracker-app](https://github.com/MarcusBloomfield/project-tracker-app)  | [Website](https://marcusbloomfield.github.io/project-tracker-website/)**    
   ProjectTrackerApp is a custom solution I made to help handle the difficulty of managing multipul projects at once. It is a desktop based application that uses Typescript and Chormium. It has folder management, note taking and task management features to help make life easier.
 
 ---
 
-## 🛠️ Projects
+## Projects
 - **[UnityToNvim](https://github.com/MarcusBloomfield/UnityToNvim)**  
   A batch script that uses nvim server functions to open files with nvim correctly inside of unity.
 
@@ -46,7 +46,7 @@ Game developer and creative coder based in Australia. I build tools, simulations
 
 ---
 
-## 🎮 Games & Experiments (Private & Public Mix)
+##  Games & Experiments (Private & Public Mix)
 
 - `Hardship` – A survival town-builder written in Unity (C#) soon to be released on steam
 - `MiniGame` – Built in C++ with Raylib, a minimal arcade-style game  
@@ -57,7 +57,7 @@ Game developer and creative coder based in Australia. I build tools, simulations
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 **Languages**: C#, Python, TypeScript, JavaScript, C++, Lua, HLSL, GLSL  
 **Frameworks**: Unity, Raylib, GDScript, HTML/CSS  
@@ -65,11 +65,11 @@ Game developer and creative coder based in Australia. I build tools, simulations
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
-- 🚀 50+ repositories ranging from utility tools to full-fledged game engines  
-- 🧠 Passion for simulations, procedural systems, and creative automation  
-- 💡 Always exploring intersections of creativity, logic, and user experience
+-  50+ repositories ranging from utility tools to full-fledged game engines  
+-  Passion for simulations, procedural systems, and creative automation  
+-  Always exploring intersections of creativity, logic, and user experience
 
 ---
 
