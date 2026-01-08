@@ -38,9 +38,6 @@ Game developer and creative coder based in Australia. I build tools, simulations
 - **[AudioChromeExtension](https://github.com/MarcusBloomfield/AudioChromeExtension)**  
   A Chrome extension provides tools for managing browser audio, including a Compressor, Limiter, and Amplifier.
 
-- **[JobFinder](https://github.com/MarcusBloomfield/JobFinder)**  
-  A TypeScript-based job discovery app that integrates OpenAI resume analysis and matching.
-
 - **[ScreenShotStylizer](https://github.com/MarcusBloomfield/ScreenShotStylizer)**  
   Transforms images using OpenAI image creation.
 
