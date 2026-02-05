@@ -1,7 +1,5 @@
 # Marcus Bloomfield
 
-Game developer and creative coder based in Australia. I build tools, simulations, and games that blend systems thinking with expressive interfaces. From web AI-driven job finders to dice-rolling Warhammer tools and Unity-based video games.
-
 <div align="center">
   <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/a3748902-6402-422b-ae00-c68db842fae7" width="150" height="150" style="margin: 5px;" />
   <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/3feed36f-0701-47dd-8859-996b1540eea1" width="150" height="150" style="margin: 5px;" />
