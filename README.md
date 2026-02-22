@@ -1,6 +1,6 @@
 # Marcus Bloomfield
 
-<div align="center">
+<div>
   <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/a3748902-6402-422b-ae00-c68db842fae7" width="150" height="150" style="margin: 5px;" />
   <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/3feed36f-0701-47dd-8859-996b1540eea1" width="150" height="150" style="margin: 5px;" />
   <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/a1677e63-a356-4884-b751-3a9cae54d25a" width="150" height="150" style="margin: 5px;" />
@@ -16,7 +16,7 @@
 ## Main Project  
 - **[Hardship](https://store.steampowered.com/app/1334570?utm_source=github) | [Steam](https://store.steampowered.com/app/1334570?utm_source=github) | [Website](https://marcusbloomfield.github.io/HardshipWebsite/)**    
   Trying to simulate humanity and the planet earth.
-  
+  <div> <!-- GitHub doesn't allow iframe embeds, so we use a clickable thumbnail --> <a href="https://www.youtube.com/watch?v=gzljTkdiflE"> <img src="https://img.youtube.com/vi/gzljTkdiflE/maxresdefault.jpg" width="600"/> </a> </div>
 ---
 
 ## Projects
