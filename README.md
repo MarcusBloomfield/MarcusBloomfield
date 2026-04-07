@@ -13,7 +13,7 @@
 </div>
 
 ---
-## Main Project  
+## Hardship
 - **[Steam](https://store.steampowered.com/app/1334570?utm_source=github)**    
   A complex city building game set on a 3d globe
   <div> <!-- GitHub doesn't allow iframe embeds, so we use a clickable thumbnail --> <a href="https://www.youtube.com/watch?v=gzljTkdiflE"> <img src="https://img.youtube.com/vi/gzljTkdiflE/maxresdefault.jpg" width="600"/> </a> </div>
@@ -39,7 +39,6 @@
 
 ##  Games & Experiments (Private & Public Mix)
 
-- `Hardship` – A survival town-builder written in Unity (C#) soon to be released on steam
 - `MiniGame` – Built in C++ with Raylib, a minimal arcade-style game  
 - `Depths` – An atmospheric Python project exploring the deep ocean in a submarine  
 - `MarcusEngine` – A C++ custom game engine for learning and experimentation  
