@@ -1,3 +1,4 @@
+
 # Marcus Bloomfield
 
 <div>
@@ -12,12 +13,16 @@
   <img src="https://github.com/MarcusBloomfield/MarcusBloomfield/assets/69335910/c71a6f8a-6828-4ab6-ae36-652f0a9d3510" width="150" height="150" style="margin: 5px;" />
 </div>
 
----
+
 ## Hardship
 - **[Steam](https://store.steampowered.com/app/1334570?utm_source=github)**    
-  A complex city building game set on a 3d globe
+  A city building game I made in unity using C#, HLSL and Blender
   <div> <a href="https://www.youtube.com/watch?v=gzljTkdiflE"> <img src="https://img.youtube.com/vi/gzljTkdiflE/maxresdefault.jpg" width="600"/> </a> </div>
----
+
+## Project Tracker 
+  A program I made in order to manage many projects at once using electron and type script
+  <div> <img width="600" alt="Screenshot 2026-05-26 145444" src="https://github.com/user-attachments/assets/665d297d-0076-4172-879b-93797d3dda3b" /> </div>
+
 
 ## Projects
 - **[UnityToNvim](https://github.com/MarcusBloomfield/UnityToNvim)**  
@@ -35,8 +40,6 @@
 - **[ScreenShotStylizer](https://github.com/MarcusBloomfield/ScreenShotStylizer)**  
   Transforms images using OpenAI image creation.
 
----
-
 ##  Games & Experiments (Private & Public Mix)
 
 - `MiniGame` – Built in C++ with Raylib, a minimal arcade-style game  
@@ -45,24 +48,18 @@
 - `PROJECT-ZETA` – A GDScript-powered prototype in the Godot engine
 - `Youtube Video Generator` – An OpenAI Python project that generates faceless youtube videos from clips
 
----
-
 ## Languages & Tools
 
 **Languages**: C#, Python, TypeScript, JavaScript, C++, Lua, HLSL, GLSL  
 **Frameworks**: Unity, Raylib, GDScript, HTML/CSS  
 **Other**: NeoVim, ShaderLab, Git, CLI scripting
 
----
 
 ## Highlights
 
 -  50+ repositories ranging from utility tools to full-fledged game engines  
 -  Passion for simulations, procedural systems, and creative automation  
 -  Always exploring intersections of creativity, logic, and user experience
-
----
-
 
 ## 📬 Get in Touch
 
