@@ -14,14 +14,13 @@
 </div>
 
 
-## Hardship
-- **[Steam](https://store.steampowered.com/app/1334570?utm_source=github)**    
-  A city building game I made in unity using C#, HLSL and Blender
+## Hardship  
+  A city building game I made in unity using C#, HLSL and Blender. **[Steam store](https://store.steampowered.com/app/1334570?utm_source=github)**  
   <div> <a href="https://www.youtube.com/watch?v=gzljTkdiflE"> <img src="https://img.youtube.com/vi/gzljTkdiflE/maxresdefault.jpg" width="600"/> </a> </div>
 
 ## Project Tracker 
-  A program I made in order to manage many projects at once using electron and type script
-  <div> <img width="600" alt="Screenshot 2026-05-26 145444" src="https://github.com/user-attachments/assets/665d297d-0076-4172-879b-93797d3dda3b" /> </div>
+  A program I made in order to manage many projects at once using electron and type script.
+  <div> <img width="600" alt="Screenshot 2026-05-26 145444" src="https://github.com/user-attachments/assets/cec78fea-3098-469b-81e1-df2d4c0daee0" /> </div>
 
 
 ## Projects
